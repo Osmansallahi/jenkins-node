@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-node",
+  "version": "1.0.0",
+  "description": "node application to test jenkins",
+  "homepage": "https://github.com/Osmansallahi/jenkins-node#readme",
+  "bugs": {
+    "url": "https://github.com/Osmansallahi/jenkins-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osmansallahi/jenkins-node.git"
+  },
+  "license": "ISC",
+  "author": "OthmanSALAHI",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+   "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
